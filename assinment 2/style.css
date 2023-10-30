@@ -1,9 +1,13 @@
 body{
     font-family: 'Lato', sans-serif; 
-    background-color:rgb(168, 180, 127);
+    background-color:antiquewhite;
 }
 
 img{
     height: 200px;
     width: 200px;
+}
+
+h1{
+   color:blue; 
 }
